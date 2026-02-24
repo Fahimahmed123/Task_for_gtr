@@ -38,7 +38,7 @@ A class-based trading strategy tool that analyzes stock data and identifies gold
 
 ### How to Run
 
-```bash
+
 cd task1_algorithmic_trading
 
 # Install dependencies

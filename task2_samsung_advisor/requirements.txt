@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+psycopg2-binary
+sqlalchemy
+pandas
+requests
+beautifulsoup4
+sentence-transformers
+faiss-cpu
+python-dotenv

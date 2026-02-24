@@ -1,0 +1,18 @@
+# Task 1: Algorithmic Trading Requirements
+# Golden Cross Trading Strategy
+
+# Core Data Libraries
+yfinance==0.2.33
+pandas==2.1.3
+numpy==1.24.3
+
+# Visualization
+matplotlib==3.8.0
+
+# Utilities (optional but helpful)
+python-dotenv==1.0.0
+warnings==0.2.0  # Usually built-in, but included for completeness
+
+# Development tools (optional)
+jupyter==1.0.0
+ipykernel==6.25.0
